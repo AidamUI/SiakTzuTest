@@ -1,5 +1,7 @@
 # SiakTzu
 
+SIGMA
+
 Co-author: Hocky, Dennis, Galang
 
 SiakWar + Sun Tzu ez ez
